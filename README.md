@@ -8,7 +8,7 @@
 >
 > * [chromedriver](http://npm.taobao.org/mirrors/chromedriver/)
 >
-> * [python3](https://www.python.org/downloads/) ： 若为Windows下载后需添加环境变量
+> * [python3](https://www.python.org/downloads/) 
 >
 > * selenium库(`Windows powershell`|| `Linux bash`): `pip install selenium`
 >
