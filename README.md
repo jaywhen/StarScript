@@ -14,7 +14,7 @@
 >
 > > <font color = "red">注意, chromedriver的版本与chrome浏览器的大版本要相对应</font>
 > >
-> > 查看chrome版本：在chrome网址搜索栏上搜索`chrome://version/` (onsistent version)
+> > 查看chrome版本：在chrome网址搜索栏上搜索`chrome://version/` (consistent version)
 > >
 > > 例如: 我的chrome版本为`80.0.3987.149`
 > >
