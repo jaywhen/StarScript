@@ -6,7 +6,7 @@
 >
 > * [chrome浏览器](https://www.google.cn/chrome/index.html)
 >
-> * [chromedriver](http://npm.taobao.org/mirrors/chromedriver/)
+> * [chromedriver](http://npm.taobao.org/mirrors/chromedriver/) 并添加环境变量
 >
 > * [python3](https://www.python.org/downloads/) 
 >
